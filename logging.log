@@ -1,0 +1,31 @@
+2022-02-20 02:06:53 INFO-127.0.0.1 - - [20/Feb/2022 02:06:53] "[37mGET / HTTP/1.1[0m" 200 -
+2022-02-20 02:06:56 INFO-starting data validation...
+2022-02-20 02:06:56 ERROR-Unknown datatype exception at relative_compactness 
+2022-02-20 02:06:56 CRITICAL-Process terminated due to occurrence of exception
+2022-02-20 02:06:56 INFO-127.0.0.1 - - [20/Feb/2022 02:06:56] "[37mPOST / HTTP/1.1[0m" 200 -
+2022-02-20 02:07:39 INFO- * Restarting with stat
+2022-02-20 02:07:39 WARNING- * Debugger is active!
+2022-02-20 02:07:39 INFO- * Debugger PIN: 852-390-243
+2022-02-20 02:07:39 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-20 02:07:45 INFO-127.0.0.1 - - [20/Feb/2022 02:07:45] "[37mGET / HTTP/1.1[0m" 200 -
+2022-02-20 02:07:48 INFO-starting data validation...
+2022-02-20 02:07:48 ERROR-Unknown datatype exception at relative_compactness 
+2022-02-20 02:07:48 CRITICAL-Process terminated due to occurrence of exception
+2022-02-20 02:07:48 INFO-127.0.0.1 - - [20/Feb/2022 02:07:48] "[37mPOST / HTTP/1.1[0m" 200 -
+2022-02-20 02:07:58 INFO-127.0.0.1 - - [20/Feb/2022 02:07:58] "[37mGET /logs HTTP/1.1[0m" 200 -
+2022-02-20 02:07:58 INFO-127.0.0.1 - - [20/Feb/2022 02:07:58] "[33mGET /static/style1.css HTTP/1.1[0m" 404 -
+2022-02-20 02:08:47 INFO-starting data validation...
+2022-02-20 02:08:47 INFO-Input datas are validated
+2022-02-20 02:08:47 INFO-127.0.0.1 - - [20/Feb/2022 02:08:47] "[37mPOST / HTTP/1.1[0m" 200 -
+2022-02-20 02:11:43 INFO-127.0.0.1 - - [20/Feb/2022 02:11:43] "[37mGET / HTTP/1.1[0m" 200 -
+2022-02-20 02:11:43 INFO-127.0.0.1 - - [20/Feb/2022 02:11:43] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2022-02-20 02:11:44 INFO-127.0.0.1 - - [20/Feb/2022 02:11:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-02-20 02:11:51 INFO-starting data validation...
+2022-02-20 02:11:51 ERROR-Unknown datatype exception at relative_compactness 
+2022-02-20 02:11:51 CRITICAL-Process terminated due to occurrence of exception
+2022-02-20 02:11:51 INFO-127.0.0.1 - - [20/Feb/2022 02:11:51] "[37mPOST / HTTP/1.1[0m" 200 -
+2022-02-20 02:12:42 INFO-starting data validation...
+2022-02-20 02:12:42 INFO-Input datas are validated
+2022-02-20 02:12:42 INFO-127.0.0.1 - - [20/Feb/2022 02:12:42] "[37mPOST / HTTP/1.1[0m" 200 -
+2022-02-20 02:12:51 INFO-127.0.0.1 - - [20/Feb/2022 02:12:51] "[37mGET /logs HTTP/1.1[0m" 200 -
+2022-02-20 02:12:51 INFO-127.0.0.1 - - [20/Feb/2022 02:12:51] "[33mGET /static/style1.css HTTP/1.1[0m" 404 -
